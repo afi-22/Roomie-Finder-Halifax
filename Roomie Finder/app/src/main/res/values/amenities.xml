@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="amenities">
+        <item>Heat Included</item>
+        <item>Hot Water Included</item>
+        <item>Laundry(In Building_</item>
+        <item>Underground Parking</item>
+        <item>Elevator</item>
+        <item>Dishwasher</item>
+        <item>Gym</item>
+        <item>Internet</item>
+        <item>Storage</item>
+        <item>Wheelchair Accessible</item>
+        <item>Security</item>
+    </string-array>
+</resources>

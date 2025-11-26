@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferences">
+        <item>Pet-Friendly</item>
+        <item>No-Pet</item>
+        <item>Non-smoking</item>
+        <item>Smokers Accepted</item>
+        <item>Quiet Hours</item>
+        <item>Couples Welcome</item>
+        <item>Students Only</item>
+        <item>Female Only</item>
+        <item>References Required</item>
+    </string-array>
+
+</resources>

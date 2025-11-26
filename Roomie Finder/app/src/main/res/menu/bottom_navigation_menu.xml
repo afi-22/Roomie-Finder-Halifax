@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/dashboard"
+        android:title="Dashboard" />
+
+    <item
+        android:id="@+id/navigation_search"
+        android:icon="@drawable/search"
+        android:title="Search" />
+
+    <item
+        android:id="@+id/navigation_create_post"
+        android:icon="@drawable/create"
+        android:title="Create Post" />
+
+    <item
+        android:id="@+id/navigation_message"
+        android:icon="@drawable/message"
+        android:title="message" />
+
+    <item
+        android:id="@+id/navigation_edit_post"
+        android:icon="@drawable/profile"
+        android:title="Edit post" />
+</menu>

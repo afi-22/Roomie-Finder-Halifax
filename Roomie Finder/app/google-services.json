@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "302829140210",
+    "project_id": "csci4176-project-420fc",
+    "storage_bucket": "csci4176-project-420fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302829140210:android:4739dae067824a12a2786b",
+        "android_client_info": {
+          "package_name": "com.example.a4176project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzDwCyouDFnck45LMcE1m-1jq7jRc6mUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">4176Project</string>
+    <string name="app_intro">App introduction. Features showcase.</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="error_loading_user">Failed to load user information</string>
+
+
+    <string-array name="preference_options">
+        <item>Pet Friendly</item>
+        <item>Smoking Permitted</item>
+        <item>Furnished</item>
+        <item>Parking</item>
+        <item>Fridge/Freezer</item>
+        <item>Water</item>
+        <item>Heat</item>
+        <item>Air Conditioning</item>
+        <item>Elevator in Building</item>
+        <item>Laundry</item>
+        <item>Gym</item>
+        <item>Balcony</item>
+        <item>Internet</item>
+        <item>Pool</item>
+    </string-array>
+</resources>

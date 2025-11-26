@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lifestyles">
+        <item>Clean</item>
+        <item>No Party</item>
+        <item>Occasionally Party</item>
+        <item>Early Bird</item>
+        <item>Night Owl</item>
+        <item>No Overnight Guests</item>
+        <item>Occasionally Overnight Guests</item>
+        <item>Vegetarians/Vegans Preferred</item>
+    </string-array>
+
+</resources>
